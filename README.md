@@ -5,3 +5,4 @@ I have a strong passion for cybersecurity and cloud technology. I enjoy solving 
 
 ## ☁️ Cloud and IT Security Labs
 - **[Azure Active Directory Lab](https://github.com/wtilus/Azure-Active-Directory-Lab)**
+- **[ServiceNow Ticket Management Lab](https://github.com/wtilus/ServiceNow-Ticket-Management-Lab)**
